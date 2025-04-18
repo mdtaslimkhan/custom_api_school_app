@@ -15,6 +15,13 @@
 
 ---
 
+## Application Screen 
+
+![Images!](assets/screen/school1.png)
+
+## Application Screen, Dashboard, Stuff, Login and Drawer 
+![Images!](assets/screen/school2.png)
+
 ## ⚙️ Installation
 
 ### Prerequisites
@@ -74,12 +81,7 @@
 - **UI Components**: NativeBase, React Navigation
 
 ---
-## Application Screen 
 
-![Images!](assets/screen/school1.png)
-
-## Application Screen, Dashboard, Students List 
-![Images!](assets/screen/school2.png)
 
 ## 🤝 Contributing
 
