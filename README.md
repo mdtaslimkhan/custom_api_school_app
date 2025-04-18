@@ -74,8 +74,12 @@
 - **UI Components**: NativeBase, React Navigation
 
 ---
+## Application Screen 
 
-![Images!](assets/icon.png)
+![Images!](assets/screen/school1.png)
+
+## Application Screen, Dashboard, Students List 
+![Images!](assets/screen/school2.png)
 
 ## 🤝 Contributing
 
