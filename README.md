@@ -82,20 +82,6 @@
 
 ---
 
-
-## 🤝 Contributing
-
-We welcome contributions to enhance SchoolAdmin. To contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add YourFeature'`).
-5. Push to the branch (`git push origin feature/YourFeature`).
-6. Open a Pull Request.
-
-Please ensure your code adheres to the project's coding standards and includes appropriate tests.
-
 ---
 
 ## 📄 License
@@ -113,5 +99,3 @@ For inquiries or feedback, please contact:
 - Project Link: (https://github.com/mdtaslimkhan/custom_api_school_app)
 
 ---
-
-Feel free to customize this template further to align with your project's specific requirements and branding. 
